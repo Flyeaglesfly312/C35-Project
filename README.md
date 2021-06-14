@@ -1,2 +1,2 @@
-# C35-Project
-Hot Air Balloon Game
+# synchronousBallMovement
+Ball moving synchronously
